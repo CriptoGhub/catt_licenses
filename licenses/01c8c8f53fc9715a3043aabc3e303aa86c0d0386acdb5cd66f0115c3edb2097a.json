@@ -1,5 +1,5 @@
 {
   "status": "VALID",
   "pc_name": "PUT_TEST",
-  "check_interval": 15
+  "check_interval": 60
 }
