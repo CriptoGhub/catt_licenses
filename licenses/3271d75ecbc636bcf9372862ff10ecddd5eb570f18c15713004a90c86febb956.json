@@ -1,5 +1,5 @@
 {
   "status": "VALID",
   "pc_name": "TOP_MSTR",
-  "check_interval": 5
+  "check_interval": 60
 }
