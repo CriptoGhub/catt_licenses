@@ -1,5 +1,5 @@
 {
-  "status": "ASSISTENCE",
+  "status": "VALID",
   "pc_name": "LEN_P1_CAR",
-  "check_interval": 6
+  "check_interval": 60
 }
